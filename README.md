@@ -57,9 +57,3 @@ View Trips Screen
 
 ---
 
-✅ Paste this into a file named **README.md** in your project folder.  
-Would you like me to also give you the **requirements.txt content** so you can fix the misnamed file and make it correct?
----
-
-## 📂 Project Structure
-# smart-travell-planner
